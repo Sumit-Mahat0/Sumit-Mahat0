@@ -1,11 +1,3 @@
-👋 Hi, I’m @Sumit-Mahat0
-"I'm a passionate Data Science aspirant skilled in Python, R, SQL, statistics, and machine learning. 
-Experienced in building predictive models, data analysis, and extracting insights. Bachelor's in Computer Applications from Asansol Engineering College. 
-Interned at Dataminds, specializing in data cleaning, feature engineering, and model development. 
-Strong in communication, collaborative problem-solving, and continuous learning. Eager to explore advanced data science topics and contribute to impactful projects."
-
-
-
 <h1 align="center">Hi 👋, I'm Sumit Mahato</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -15,7 +7,7 @@ Strong in communication, collaborative problem-solving, and continuous learning.
 
 - 🔭 I’m currently working on **Next Word Prediction**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science aspirant skilled in Python, R, SQL, statistics, and machine learning. Experienced in building predictive models, data analysis, and extracting insights. Bachelor's in Computer Applications from Asansol Engineering College. Interned at Dataminds, specializing in data cleaning, feature engineering, and model development. Strong in communication, collaborative problem-solving, and continuous learning. Eager to explore advanced data science topics and contribute to impactful projects."**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sumit.IT](https://linktr.ee/sumit.IT)
 
