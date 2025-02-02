@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sumit Mahato</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-mahat0&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-mahat0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-mahat0" alt="sumit-mahat0" /></a> </p>
 
-- 🔭 I’m currently working on **Next Word Prediction**
 
-- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sumit.IT](https://linktr.ee/sumit.IT)
 
-- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 💬 Ask me about **Python, Machine Learning, Data Analyst, Excel, Power Bi**
 
 - 📫 How to reach me **sumitmahato.aec@gmail.com**
 
