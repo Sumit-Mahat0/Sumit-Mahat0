@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sumit.IT](https://codebasics.io/portfolio/Sumit-Mahato)
+- 👨‍💻 All of my projects are available at [Portfolio](https://codebasics.io/portfolio/Sumit-Mahato)
 
 - 💬 Ask me about **Python, Mysql, Microsift Excel, Power Bi**
 
